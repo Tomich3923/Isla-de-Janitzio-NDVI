@@ -1,0 +1,25 @@
+{
+  "imagePath": "image-targets/Janitzio3D_imagetarget_luminance.jpeg",
+  "resources": {
+    "originalImage": "Janitzio3D_imagetarget_original.jpeg",
+    "croppedImage": "Janitzio3D_imagetarget_cropped.jpeg",
+    "thumbnailImage": "Janitzio3D_imagetarget_thumbnail.jpeg",
+    "geometryImage": "Janitzio3D_imagetarget_geometry.jpeg",
+    "luminanceImage": "Janitzio3D_imagetarget_luminance.jpeg"
+  },
+  "name": "Janitzio3D_imagetarget",
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 250,
+    "width": 1500,
+    "height": 2000,
+    "isRotated": false,
+    "originalWidth": 2000,
+    "originalHeight": 2000
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1768705353308,
+  "updated": 1768705353308
+}

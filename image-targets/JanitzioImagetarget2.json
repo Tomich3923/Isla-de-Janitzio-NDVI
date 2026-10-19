@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 295,
+    "width": 1772,
+    "height": 2362,
+    "isRotated": false,
+    "originalWidth": 2362,
+    "originalHeight": 2362
+  },
+  "imagePath": "image-targets/JanitzioImagetarget2_luminance.jpg",
+  "metadata": null,
+  "name": "JanitzioImagetarget2",
+  "resources": {
+    "originalImage": "JanitzioImagetarget2_original.jpg",
+    "croppedImage": "JanitzioImagetarget2_cropped.jpg",
+    "thumbnailImage": "JanitzioImagetarget2_thumbnail.jpg",
+    "luminanceImage": "JanitzioImagetarget2_luminance.jpg"
+  },
+  "created": 1792217458027,
+  "updated": 1792217528786
+}
